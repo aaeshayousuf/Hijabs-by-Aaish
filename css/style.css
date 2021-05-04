@@ -166,7 +166,7 @@ footer{
     color: #DF678C;
 }
 
-@media (max-width: 768px){
+@media (max-width: 1024px){
     header #branding,
     header nav,
     header nav li,
