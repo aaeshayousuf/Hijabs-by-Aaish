@@ -193,4 +193,13 @@ footer{
         width: 100px;
         margin-bottom: 5px;
     }
+    #boxes .box p{
+        width: 90%;
+    }
+    .footer-top p{
+        padding-left: 20px;
+    }
+    .left a{
+        padding-left: 20px;
+    }
 }
