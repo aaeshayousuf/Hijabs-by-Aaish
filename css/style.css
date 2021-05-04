@@ -83,8 +83,6 @@ header a:hover{
 }
 #showcase p{
     font-size: 20px;
-    width: 500px;
-    margin-left: 280px;
 }
 
 /* Newsletter */
@@ -185,9 +183,6 @@ footer{
     }
     header nav{
         margin-top: -20px;
-    }
-    #showcase p{
-        margin-left: 50px;
     }
     #newletter button, .quote button{
         display: block;
